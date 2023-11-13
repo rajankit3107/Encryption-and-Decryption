@@ -1,5 +1,4 @@
 import speech_recognition as sr
-import distutils 
 
 def speech_to_text(file_name):
     recognizer = sr.Recognizer()
